@@ -1,5 +1,5 @@
 <p align="center">
-	English | <a href="https://github.com/gd4Ark/star-battle/blob/master/README-CN.md">简体中文</a>
+	English
 </p>
 > A spaceship shooting game developed using JavaScript ES6, Canvas.
 
