@@ -1,6 +1,3 @@
-<p align="center">
-	English
-</p>
 > A spaceship shooting game developed using JavaScript ES6, Canvas.
 
 ## Game Rules
